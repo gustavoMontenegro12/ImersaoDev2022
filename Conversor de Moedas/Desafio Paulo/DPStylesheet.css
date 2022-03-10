@@ -1,0 +1,70 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url("https://th.bing.com/th/id/R.1ac25c692ae360421af8ce1a8dd55f9c?rik=VPZY2E%2f6Akhzww&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fWonderful-Nebula-Wallpaper-HD.jpg&ehk=lIL8G1r4OGqh%2bCbXVRaN2aeipW2WnFeOLIOOhGgaJeA%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-color: #000000;
+    
+    background-repeat: no-repeat;
+  }
+  
+
+  .max-width {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+  .page-logo {
+    width: 200px;
+    
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: rgb(0, 0, 0); text-shadow: black 0.1em 0.1em 0.2em
+  }
+  
+  input {
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: rgb(255, 253, 253);
+    font-weight: bold;
+
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  h2 {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  
